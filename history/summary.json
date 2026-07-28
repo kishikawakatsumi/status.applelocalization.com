@@ -4,7 +4,7 @@
     "url": "https://applelocalization.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/applelocalization.com.ico",
     "slug": "applelocalization-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -20,7 +20,8 @@
       "2025-11-15": 118,
       "2025-11-18": 166,
       "2026-01-26": 26,
-      "2026-06-25": 31
+      "2026-06-25": 31,
+      "2026-07-28": 0
     }
   }
 ]
