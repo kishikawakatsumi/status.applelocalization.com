@@ -1,7 +1,7 @@
 url: https://applelocalization.com/healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-06T08:15:12.617Z
+status: up
+code: 200
+responseTime: 39299
+lastUpdated: 2026-08-06T11:10:52.560Z
 startTime: 2023-05-12T11:26:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
