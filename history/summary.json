@@ -4,16 +4,16 @@
     "url": "https://applelocalization.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/applelocalization.com.ico",
     "slug": "applelocalization-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.72%",
-    "time": 836,
-    "timeDay": 13112,
-    "timeWeek": 9309,
-    "timeMonth": 4253,
+    "time": 837,
+    "timeDay": 19126,
+    "timeWeek": 9308,
+    "timeMonth": 4249,
     "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-11-16": 99,
@@ -29,8 +29,7 @@
       "2026-09-23": 325,
       "2026-09-26": 21,
       "2026-09-28": 35,
-      "2026-09-29": 18,
-      "2026-09-30": 14
+      "2026-09-29": 18
     }
   }
 ]
