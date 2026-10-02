@@ -6,15 +6,15 @@
     "slug": "applelocalization-com",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.70%",
-    "time": 947,
-    "timeDay": 7765,
-    "timeWeek": 10199,
-    "timeMonth": 5233,
-    "timeYear": 1173,
+    "time": 959,
+    "timeDay": 9420,
+    "timeWeek": 10545,
+    "timeMonth": 5376,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-11-16": 99,
       "2025-11-15": 118,
@@ -32,7 +32,7 @@
       "2026-09-29": 18,
       "2026-10-01": 76,
       "2026-09-30": 23,
-      "2026-10-02": 18
+      "2026-10-02": 34
     }
   }
 ]
