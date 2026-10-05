@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/applelocalization.com.ico",
     "slug": "applelocalization-com",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.87%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.67%",
     "time": 990,
-    "timeDay": 516,
-    "timeWeek": 7419,
-    "timeMonth": 5323,
+    "timeDay": 508,
+    "timeWeek": 7413,
+    "timeMonth": 5322,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-11-16": 99,
@@ -33,7 +33,8 @@
       "2026-10-01": 76,
       "2026-09-30": 23,
       "2026-10-02": 34,
-      "2026-10-04": 0
+      "2026-10-05": 41,
+      "2026-10-04": 92
     }
   }
 ]
